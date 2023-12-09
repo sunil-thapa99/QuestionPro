@@ -30,7 +30,7 @@ Here, it delves into the intricate details of our React application's answer gra
 
 Link to the project: https://github.com/samirkhanal35/Answer_grading_api
 
-## Custom Model
+## T5 Transformer and Custom Model
 Here, we integrate a custom T5 model within our React application. The T5 model, renowned for its text-to-text capabilities, is pivotal in question generation and answer grading. Leveraging React's dynamic architecture, our application seamlessly incorporates this custom T5 model to enhance the generation of diverse and contextually relevant questions. Educators can leverage the power of the T5 model to formulate engaging queries, while learners benefit from its prowess in providing nuanced evaluations for submitted answers. 
 
 Link to the project: https://github.com/bascr/AIML-Capstone-Project-QA-AI

@@ -14,7 +14,7 @@ QuestionPro is a natural language processing (NLP) project designed to generate 
 
 - [Seq2Seq Model](#seq2seq)
 - [Answer Grading](#answer-grading)
-- [Custom Model](#custom-model)
+- [T5 Transformer and Custom Model](#t5-transformer-and-custom-model)
 - [React](#react)
 - [Database Connection](#database-connection)
 
